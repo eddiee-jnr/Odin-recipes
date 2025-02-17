@@ -19,6 +19,6 @@ Welcome to our Recipe Website! This project is designed to showcase a collection
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/eddie-dotcom/recipe-website.git
+   git clone https://github.com/eddiee-jnr/Ordin-recipe.git
 2. Open the index.html file in your web browser.
 3. Explore the recipes and enjoy cooking!
