@@ -1,0 +1,37 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    box-sizing: border-box;
+    background-color: rgb(148, 166, 189);
+}
+
+h1{
+    color: j;
+    text-align: center;
+    font: bold;
+}
+
+.nav{
+    margin-top: 20px;
+    width: 90%;
+    display: flex;
+}
+
+li{
+    margin: 5px 35px;
+    padding: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+li a{
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+}
+
+li a:hover{
+    text-decoration: underline;
+    color: #ffa800;
+}
+
